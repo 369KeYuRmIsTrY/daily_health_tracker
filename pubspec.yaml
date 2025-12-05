@@ -1,0 +1,94 @@
+name: daily_health_tracker
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # ---- Required Packages for Assignment ----
+
+  # GetX - state management, navigation, dependency injection
+  get: ^4.6.6
+
+  # Google Sign-In for user login
+  google_sign_in: ^6.2.1
+
+  # REST API calls
+  http: ^1.2.2
+
+  # Graphs (Bar chart, Line chart)
+  fl_chart: ^0.69.0
+
+  # Local storage (for theme + timer)
+  shared_preferences: ^2.3.2
+
+  # Date formatting (optional)
+  intl: ^0.19.0
+
+  # ---------------- Notifications ----------------
+  # Local notifications for reminders, alerts, daily tasks
+  flutter_local_notifications: ^17.2.1
+  timezone: ^0.9.2
+  # ------------------------------------------------
+
+  # Animations (smooth UI effects)
+  flutter_animate: ^4.5.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+  # Splash screen generator
+  flutter_native_splash: ^2.4.0
+
+  # App Icon generator
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+
+
+flutter:
+  uses-material-design: true
+
+  # ASSETS (ALL LOADED)
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/json/
+
+
+# ---------------- SPLASH SCREEN CONFIGURATION ----------------
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  # Splash background color
+  color: "#ffffff"
+
+  # Main splash logo
+  image: assets/images/logo.png
+
+  # Optional branding image displayed at bottom
+  branding: assets/images/logo.png
+
+  # Android 12 splash rules
+  android_12:
+    color: "#ffffff"
+    image: assets/images/logo.png
+    icon_background_color: "#ffffff"
+# --------------------------------------------------------------

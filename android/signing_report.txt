@@ -1,0 +1,104 @@
+> Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle:pluginDescriptors UP-TO-DATE
+> Task :gradle:processResources
+
+> Task :gradle:compileKotlin
+w: file:///C:/flutter/packages/flutter_tools/gradle/src/main/kotlin/DependencyVersionChecker.kt:183:39 'getter for minSdkVersion: AndroidVersion' is deprecated. Will be removed in v9.0
+
+> Task :gradle:compileJava NO-SOURCE
+> Task :gradle:compileGroovy NO-SOURCE
+> Task :gradle:classes
+> Task :gradle:jar
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\Dell\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BE:D7:CC:40:1B:E7:D7:51:1C:97:E7:34:6F:06:73:74
+SHA1: 40:61:F9:85:F2:2E:63:22:66:04:92:63:1D:75:29:7E:38:41:CB:20
+SHA-256: F2:73:46:0C:6D:95:2E:2A:B0:3B:97:34:87:D1:C3:B9:AC:30:A2:FC:48:C6:65:87:D3:4F:0F:FB:40:F5:5A:46
+Valid until: Friday, June 18, 2055
+----------
+Variant: release
+Config: debug
+Store: C:\Users\Dell\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BE:D7:CC:40:1B:E7:D7:51:1C:97:E7:34:6F:06:73:74
+SHA1: 40:61:F9:85:F2:2E:63:22:66:04:92:63:1D:75:29:7E:38:41:CB:20
+SHA-256: F2:73:46:0C:6D:95:2E:2A:B0:3B:97:34:87:D1:C3:B9:AC:30:A2:FC:48:C6:65:87:D3:4F:0F:FB:40:F5:5A:46
+Valid until: Friday, June 18, 2055
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\Dell\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BE:D7:CC:40:1B:E7:D7:51:1C:97:E7:34:6F:06:73:74
+SHA1: 40:61:F9:85:F2:2E:63:22:66:04:92:63:1D:75:29:7E:38:41:CB:20
+SHA-256: F2:73:46:0C:6D:95:2E:2A:B0:3B:97:34:87:D1:C3:B9:AC:30:A2:FC:48:C6:65:87:D3:4F:0F:FB:40:F5:5A:46
+Valid until: Friday, June 18, 2055
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Dell\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BE:D7:CC:40:1B:E7:D7:51:1C:97:E7:34:6F:06:73:74
+SHA1: 40:61:F9:85:F2:2E:63:22:66:04:92:63:1D:75:29:7E:38:41:CB:20
+SHA-256: F2:73:46:0C:6D:95:2E:2A:B0:3B:97:34:87:D1:C3:B9:AC:30:A2:FC:48:C6:65:87:D3:4F:0F:FB:40:F5:5A:46
+Valid until: Friday, June 18, 2055
+----------
+
+> Task :flutter_local_notifications:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Dell\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BE:D7:CC:40:1B:E7:D7:51:1C:97:E7:34:6F:06:73:74
+SHA1: 40:61:F9:85:F2:2E:63:22:66:04:92:63:1D:75:29:7E:38:41:CB:20
+SHA-256: F2:73:46:0C:6D:95:2E:2A:B0:3B:97:34:87:D1:C3:B9:AC:30:A2:FC:48:C6:65:87:D3:4F:0F:FB:40:F5:5A:46
+Valid until: Friday, June 18, 2055
+----------
+
+> Task :flutter_native_splash:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Dell\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BE:D7:CC:40:1B:E7:D7:51:1C:97:E7:34:6F:06:73:74
+SHA1: 40:61:F9:85:F2:2E:63:22:66:04:92:63:1D:75:29:7E:38:41:CB:20
+SHA-256: F2:73:46:0C:6D:95:2E:2A:B0:3B:97:34:87:D1:C3:B9:AC:30:A2:FC:48:C6:65:87:D3:4F:0F:FB:40:F5:5A:46
+Valid until: Friday, June 18, 2055
+----------
+
+> Task :google_sign_in_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Dell\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BE:D7:CC:40:1B:E7:D7:51:1C:97:E7:34:6F:06:73:74
+SHA1: 40:61:F9:85:F2:2E:63:22:66:04:92:63:1D:75:29:7E:38:41:CB:20
+SHA-256: F2:73:46:0C:6D:95:2E:2A:B0:3B:97:34:87:D1:C3:B9:AC:30:A2:FC:48:C6:65:87:D3:4F:0F:FB:40:F5:5A:46
+Valid until: Friday, June 18, 2055
+----------
+
+> Task :shared_preferences_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Dell\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: BE:D7:CC:40:1B:E7:D7:51:1C:97:E7:34:6F:06:73:74
+SHA1: 40:61:F9:85:F2:2E:63:22:66:04:92:63:1D:75:29:7E:38:41:CB:20
+SHA-256: F2:73:46:0C:6D:95:2E:2A:B0:3B:97:34:87:D1:C3:B9:AC:30:A2:FC:48:C6:65:87:D3:4F:0F:FB:40:F5:5A:46
+Valid until: Friday, June 18, 2055
+----------
+
+[Incubating] Problems report is available at: file:///D:/flutter%20project/daily_health_tracker/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.12/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 8s
+9 actionable tasks: 8 executed, 1 up-to-date
