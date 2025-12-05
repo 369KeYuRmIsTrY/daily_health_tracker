@@ -23,23 +23,6 @@ A modern, feature-rich Flutter application designed to track daily health activi
 *   **Infinite Scrolling**: Efficient lazy loading of logs for optimal performance.
 *   **Pull-to-Refresh**: Easy data reloading with a simple swipe gesture.
 
-### 🔔 Smart Notifications
-*   **Immediate Alerts**: Send instant notifications.
-*   **Scheduled Reminders**: Schedule notifications for future events.
-*   **Periodic Alerts**: Set up recurring reminders (e.g., "Drink Water" every minute).
-*   **Management**: Ability to cancel all pending notifications.
-
-## 📱 Screenshots
-
-| Login Screen | Dashboard | Graph View |
-|:---:|:---:|:---:|
-| <img src="assets/images/logo.png" width="200" /> | *(Add Dashboard Screenshot)* | *(Add Graph Screenshot)* |
-
-## 🛠️ Tech Stack
-
-*   **Framework**: Flutter
-*   **Language**: Dart
-*   **State Management**: GetX
 *   **Navigation**: GetX Named Routes
 *   **Networking**: http
 *   **Local Storage**: shared_preferences
@@ -90,4 +73,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Made with ❤️ by [Keyur Mistry](https://github.com/369KeYuRmIsTrY)
+Made by [Keyur Mistry](https://github.com/369KeYuRmIsTrY)
