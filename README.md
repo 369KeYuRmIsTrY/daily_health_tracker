@@ -6,6 +6,40 @@ A modern, feature-rich Flutter application designed to track daily health activi
 ![Dart](https://img.shields.io/badge/Dart-3.0%2B-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![GetX](https://img.shields.io/badge/State_Management-GetX-purple?style=for-the-badge)
 
+<!-- Screenshot gallery (3 columns x 2 rows) -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1d982d86-bbcf-471e-9abb-0e7f7034c1b4" alt="Splash screen" width="300"/><br/>
+      <strong>Splash screen</strong>
+    </td>
+      <td>
+         <img src="https://github.com/user-attachments/assets/6017356d-05d3-4507-ba8e-4402d7b4a2fc" alt="Login screen" width="300"/><br/>
+         <strong>Selecting Account</strong>
+      </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/72a841ca-fa1f-43c9-86a5-7e99b26a94be" alt="Login screen" width="300"/><br/>
+      <strong>Login screen</strong>
+    </td>
+  </tr>
+  <tr>
+      <td align="center">
+      <img src="https://github.com/user-attachments/assets/013cfdca-a8dc-4a1f-8f2a-80dc6ef4d879" alt="Dashboard" width="300"/><br/>
+      <strong>Dashboard</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/54a9cee3-48d9-4c90-aa22-5d1ee6117dc8" alt="Graph screen" width="300"/><br/>
+      <strong>Graph screen</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/795a9ea8-756c-43cf-85b5-245ecedb6287" alt="Notification testing" width="300"/><br/>
+      <strong>Notification testing</strong>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
 ## ✨ Features
 
 ### 🔐 Authentication
